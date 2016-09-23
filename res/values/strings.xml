@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BTLuminar</string>
+    <string name="action_settings">Settings</string>
+    
+    <!-- title -->
+	<string name="Text">Status: -</string>
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting</string>
+    <string name="title_connected_to">connected: </string>
+    <string name="title_not_connected">not connected</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">Scanning for devices</string>
+    <string name="select_device">Select a device to connect</string>
+    <string name="select_file">Select file</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!-- Options Menu -->
+    <string name="connect">Enable Bluetooth</string>
+    <string name="scan">Scan for devices</string>
+    <string name="load">Load spectro</string>
+    <string name="save">Save spectro</string>    
+    <string name="about">About</string>        
+    
+    <!-- Dialog -->
+    <string name="ok">Save</string>
+    <string name="cancel">Cancel</string>  
+    <string name="filename">File Name</string>
+    
+    <!-- About -->
+    <string name="app_descrip">This APK allows you the management of LEDMOTIVE\'s luminaries through bluetooth connection. Control every color channel in order to get the light visible spectrum you want to.</string>    
+    <string name="app_credits">BTLuminar v0.1 by Oscar Motto for LEDMOTIVE\'s purposes.</string>
+    
+    
+</resources>
